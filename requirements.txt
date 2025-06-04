@@ -1,0 +1,6 @@
+streamlit
+tensorflow
+librosa
+pydub
+scikit-learn
+numpy
