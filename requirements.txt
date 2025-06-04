@@ -1,6 +1,6 @@
-streamlit
-tensorflow
-librosa
-pydub
+streamlit==1.27.2
+tensorflow==2.12.0
+librosa==0.10.1
 scikit-learn
 numpy
+pydub
