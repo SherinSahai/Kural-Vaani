@@ -1,6 +1,6 @@
-streamlit==1.35.0
-tensorflow==2.12.0
-librosa==0.10.0.post2
-pydub==0.25.1
-scikit-learn==1.3.0
-numpy==1.24.3
+streamlit
+tensorflow
+librosa
+pydub
+scikit-learn
+numpy
